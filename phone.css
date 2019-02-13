@@ -40,7 +40,7 @@ border-bottom: 5px solid white;}
 	opacity: 1;
 	border-bottom: 2px solid #44515A;}
 
-	button#number {
+	.number button {
 	color: #44515A;
 	width:30%; 
 	border-style: outset;
@@ -55,12 +55,12 @@ border-bottom: 5px solid white;}
 	box-shadow: 1px 2px 5px lightgrey;
 	font-size: 1.25em;}
 
-	button#number:hover{
+	.number button:hover{
 		color: black;
 		font-weight: 500;
 	}
 
-	button#button {
+	.button button {
 	color: #44515A;
 	width:10%; 
 	border-style: outset;
